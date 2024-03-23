@@ -22,7 +22,7 @@ const page = () => {
       </div>
       <div>
        <div>
-       <Link href="/home"> <h1 className='text-3xl font-bold'> &gt </h1> </Link>
+       <Link href="/home"> <button className='w-full bg-sky-500 text-white font-bold p-3 rounded-full hover:bg-sky-600 transition-colors duration-300"'> proceed </button> </Link>
        </div>
       </div>
     </div>
